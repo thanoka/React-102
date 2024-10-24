@@ -19,7 +19,7 @@ function Home() {
           </div>
         </div>
         <div className="course-section">
-          <h2>CS205 Front End Software Development</h2>
+
           <p>This course teaches several topics as follows:</p>
           <ul>
             <li><strong>Basic UX/UI</strong>: Review the background basics to design friendly web interfaces.</li>
